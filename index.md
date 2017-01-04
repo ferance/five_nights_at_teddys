@@ -14,4 +14,4 @@
 
 * Golden Teddy
 
-######P.S.: **MrDuck** _is coming_.
+######P.S.: _**MrDuck** is coming_.
